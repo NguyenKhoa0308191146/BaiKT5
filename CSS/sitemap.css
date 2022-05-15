@@ -1,0 +1,30 @@
+#main {
+    background: url(../Images/IMAGE/term_condition/bg_term.png);
+    background-size: 100%;
+}
+#body_content {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 135px;
+}
+#body_content .page_title {
+    color: #e53329;
+    font-size: 60px;
+    font-weight: bold;
+}
+#main_contain {
+    width: 60%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.title-map {
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.infor ul {
+    display: flex;
+    height: 20px;
+    margin-top: 11px;
+}
